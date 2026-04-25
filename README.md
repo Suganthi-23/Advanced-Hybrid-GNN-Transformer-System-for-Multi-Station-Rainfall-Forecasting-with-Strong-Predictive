@@ -8,7 +8,7 @@ To improve prediction stability, I incorporated feature extraction techniques on
 
 Compared to conventional statistical and LSTM-based models, my approach improves predictive performance by explicitly combining spatial and temporal learning. The model achieves MAE ≈ 2.7 mm and RMSE ≈ 6.6 mm, supported by detailed evaluation including prediction vs actual analysis, residual distributions, and time-series forecasts.
 
-This project reflects my ability to design and build end-to-end AI systems that go beyond standard approaches, delivering scalable, interpretable, and high-performance solutions for real-world climate prediction problems.
+This project reflects a strong focus on building reliable, interpretable, and deployment-ready AI systems for high-performance solutions for real-world climate prediction problem applications.
 
 # Key Results
 
